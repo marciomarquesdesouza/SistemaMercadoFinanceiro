@@ -83,7 +83,7 @@ namespace SistemaMercadofinanceiro
       Console.WriteLine("1 - Inserir ação nova na carteira");
       Console.WriteLine("2 - Listar ações da carteira");
       Console.WriteLine("3 - Calcular valor total de cada ação");
-      Console.WriteLine("X - Sair!");
+      Console.WriteLine("X - Sair");
       Console.WriteLine();
 
       String opcaoUsuario = Console.ReadLine();
